@@ -2,6 +2,6 @@
     "name": "ert485/test_composer",
     "description": "testing publishing to composer",
     "require": {
-        "php": " ^7.1"
+        "php": " ^5.5"
     }
 }
